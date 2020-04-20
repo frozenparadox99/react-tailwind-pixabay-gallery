@@ -2,7 +2,7 @@
 
 Simple gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
 
-<a href="https://imgur.com/8Mij1Uk"><img src="https://i.imgur.com/8Mij1Uk.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/9aA20wJ"><img src="https://i.imgur.com/9aA20wJ.gif" title="source: imgur.com" /></a>
 
 ## Usage
 
